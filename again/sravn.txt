@@ -1,0 +1,14 @@
+var int x, y;
+x=2;
+y=2;
+if (x : y)
+	{
+	y=y-1;
+	write(y);
+	}
+else
+	{
+		x=x+1;
+		write(x);
+	};
+.

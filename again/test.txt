@@ -1,0 +1,8 @@
+var int i,j;
+array a[2];
+a[0]=30;
+a[1]=15;
+i=60/a[0];
+j=60/a[1];
+write(i);
+write(j);
